@@ -1,5 +1,5 @@
 # 👋 Hi, 
-# I'm Kyle Daulton , Senior Full Stack Web & AI Developer
+I'm Kyle Daulton , Senior Full Stack Web & AI Developer
   
 ## 🔥 About Me  
 
