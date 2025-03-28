@@ -54,6 +54,7 @@ I am a **Senior Full Stack Web & AI Developer** with over a decade of experience
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" height="50px" style="animation: spin 2s infinite;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" height="50px" style="animation: spin 2s infinite;">
 
+---
 <style>
 @keyframes bounce {
   0%, 100% { transform: translateY(0); }
