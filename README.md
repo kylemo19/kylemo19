@@ -128,7 +128,6 @@ about innovation, problem-solving, and delivering top-tier user experiences.
     </td>
  </tr>
 </table>
-<br><br>
 </div>
 
 ---
