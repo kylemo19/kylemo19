@@ -18,13 +18,6 @@ I am a **Senior Full Stack Web & AI Developer** with over a decade of experience
 ## 🎯 **Skill Set**  
 
 ### **🚀 Programming & Frameworks**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>  
@@ -33,22 +26,22 @@ I am a **Senior Full Stack Web & AI Developer** with over a decade of experience
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>  
 
 ### **💾 Databases & Cloud**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Supabase-Logo.png" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>  
 
 ### **🧠 AI & Machine Learning**  
-![GPT-4](https://img.shields.io/badge/-GPT--4-FF6F00?style=flat&logo=openai&logoColor=white)  
-![RAG](https://img.shields.io/badge/-RAG-007ACC?style=flat)  
-![OpenAI API](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)  
+<img src="https://media.giphy.com/media/UQJlZ2wrd2QIaIZl9N/giphy.gif" width="50" height="50"/>  
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" height="50"/>  
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50" height="50"/>  
 
 ### **🎨 Web Animation & Graphics**  
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)  
-![Canvas](https://img.shields.io/badge/-Canvas-FF5722?style=flat)  
-![SVG](https://img.shields.io/badge/-SVG-FFB13B?style=flat)  
-![GreenSock](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="50" height="50"/>  
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50" height="50"/>  
+<img src="https://media.giphy.com/media/kUTME7ABmhYg5J3psM/giphy.gif" width="50" height="50"/>  
+<img src="https://media.giphy.com/media/Sv8fUzHE3nC6hZ2Xwz/giphy.gif" width="50" height="50"/>  
 
 ---
 
