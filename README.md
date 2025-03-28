@@ -15,35 +15,19 @@ I am a **Senior Full Stack Web & AI Developer** with over a decade of experience
 
 ---
 
-## 🎯 **Skill Set**  
+## 🎯 **Skill Set**
 
-### **🚀 Programming & Frameworks**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>  
-
-### **💾 Databases & Cloud**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Supabase-Logo.png" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>  
-
-### **🧠 AI & Machine Learning**  
-<img src="https://media.giphy.com/media/UQJlZ2wrd2QIaIZl9N/giphy.gif" width="50" height="50"/>  
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" height="50"/>  
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50" height="50"/>  
-
-### **🎨 Web Animation & Graphics**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="50" height="50"/>  
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50" height="50"/>  
-<img src="https://media.giphy.com/media/kUTME7ABmhYg5J3psM/giphy.gif" width="50" height="50"/>  
-<img src="https://media.giphy.com/media/Sv8fUzHE3nC6hZ2Xwz/giphy.gif" width="50" height="50"/>  
+| **Programming & Frameworks** | **Databases & Cloud** | **AI & ML** | **Web Animation & Graphics** |
+|:----------------------------:|:---------------------:|:-----------:|:---------------------------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Supabase-Logo.png" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/> | <img src="https://media.giphy.com/media/UQJlZ2wrd2QIaIZl9N/giphy.gif" width="50"/> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50"/> <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="50"/> <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50"/> <img src="https://media.giphy.com/media/kUTME7ABmhYg5J3psM/giphy.gif" width="50"/> <img src="https://media.giphy.com/media/Sv8fUzHE3nC6hZ2Xwz/giphy.gif" width="50"/> |
 
 ---
+
+## **🖥️ Live Stats**
+
+![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
 
 ## 📌 **My Key Projects**  
 
