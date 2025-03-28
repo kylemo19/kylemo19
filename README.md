@@ -1,13 +1,6 @@
 # 👋 Hi, I'm Kyle Daulton , Senior Full Stack Web & AI Developer
-  
-## 🔥 About Me  
 
 I am a **Senior Full Stack Web & AI Developer** with over a decade of experience in building modern, scalable, and AI-powered applications. I specialize in:  
-
-- **Full Stack Development**: React, Next, Node.js, Django, Firebase, API Integration
-- **AI & Machine Learning**: GPT-4, RAG, OpenAI APIs  
-- **Blockchain & Web3**: Verifiable Credentials, Decentralized Apps  
-- **Cloud & DevOps**: Docker, CI/CD, Serverless Architectures  
 
 ---
 
