@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kyle Daulton , Senior Full Stack Web & AI Developer
 
-I am a **Senior Full Stack Web & AI Developer** with over a decade of experience in building modern, scalable, and AI-powered applications. I specialize in:  
+I am a **Senior Full Stack Web & AI Developer** with over a decade of experience in building modern, scalable, and AI-powered applications. 
 
 ---
 
